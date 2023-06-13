@@ -1,1 +1,2 @@
 # DOM-traversing
+##Traversal Methods
